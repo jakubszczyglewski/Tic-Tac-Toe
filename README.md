@@ -1,5 +1,11 @@
 # Tic-Tac-Toe
 
-Simple game created to practice OOP. 
+## Table of Contents
+###### General Info
 
-Python 3.7 
+###### Technologies
+## General Info
+Developed as an exercise for OOP.
+
+## Technologies
+Python 3.7
