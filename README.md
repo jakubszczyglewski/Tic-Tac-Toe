@@ -1,9 +1,9 @@
 # Tic-Tac-Toe
 
 ## Table of Contents
-###### General Info
+###### [General Info]
 
-###### Technologies
+###### [Technologies]
 ## General Info
 Developed as an exercise for OOP.
 
